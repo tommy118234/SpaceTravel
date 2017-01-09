@@ -1,0 +1,16 @@
+﻿  submit.cpp
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(268): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(272): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(277): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(281): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(318): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(323): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(472): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(496): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(520): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(544): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(591): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user-pc\documents\github\spacetravel\final_project\submit.cpp(852): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+  Final_Project.vcxproj -> C:\Users\user-pc\Documents\GitHub\SpaceTravel\Final_Project\x64\Debug\Final_Project.exe
+  Final_Project.vcxproj -> C:\Users\user-pc\Documents\GitHub\SpaceTravel\Final_Project\x64\Debug\Final_Project.pdb (Partial PDB)

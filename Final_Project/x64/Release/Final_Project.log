@@ -1,0 +1,28 @@
+﻿  submit.cpp
+submit.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+submit.cpp(268): warning C4305: '-=': truncation from 'double' to 'float'
+submit.cpp(272): warning C4305: '+=': truncation from 'double' to 'float'
+submit.cpp(277): warning C4305: '-=': truncation from 'double' to 'float'
+submit.cpp(281): warning C4305: '+=': truncation from 'double' to 'float'
+submit.cpp(318): warning C4305: '+=': truncation from 'double' to 'float'
+submit.cpp(323): warning C4305: '-=': truncation from 'double' to 'float'
+submit.cpp(338): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+submit.cpp(349): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+submit.cpp(357): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+submit.cpp(362): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+submit.cpp(368): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+submit.cpp(374): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+submit.cpp(427): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+submit.cpp(472): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+submit.cpp(496): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+submit.cpp(520): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+submit.cpp(544): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+submit.cpp(591): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(852): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
